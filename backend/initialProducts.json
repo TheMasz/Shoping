@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Wireless Mouse",
+    "desc": "A high-precision wireless mouse with ergonomic design.",
+    "qty": 150,
+    "category": "Electronics",
+    "price": 948.44
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "desc": "Portable Bluetooth speaker with excellent sound quality.",
+    "qty": 200,
+    "category": "Electronics",
+    "price": 1582.35
+  },
+  {
+    "name": "Yoga Mat",
+    "desc": "Eco-friendly yoga mat with non-slip surface.",
+    "qty": 300,
+    "category": "Fitness",
+    "price": 632.85
+  },
+  {
+    "name": "Running Shoes",
+    "desc": "Lightweight and breathable running shoes.",
+    "qty": 120,
+    "category": "Footwear",
+    "price": 2538.35
+  },
+  {
+    "name": "Water Bottle",
+    "desc": "Stainless steel water bottle with insulation.",
+    "qty": 500,
+    "category": "Fitness",
+    "price": 505.14
+  },
+  {
+    "name": "LED Desk Lamp",
+    "desc": "Adjustable LED desk lamp with touch controls.",
+    "qty": 250,
+    "category": "Home",
+    "price": 1106.14
+  },
+  {
+    "name": "Electric Kettle",
+    "desc": "Fast-boil electric kettle with auto shut-off.",
+    "qty": 180,
+    "category": "Home",
+    "price": 790.64
+  },
+  {
+    "name": "Smart Watch",
+    "desc": "Feature-rich smart watch with heart rate monitor.",
+    "qty": 75,
+    "category": "Electronics",
+    "price": 4113.35
+  },
+  {
+    "name": "Noise Cancelling Headphones",
+    "desc": "Over-ear headphones with active noise cancellation.",
+    "qty": 90,
+    "category": "Electronics",
+    "price": 6328.35
+  },
+  {
+    "name": "Fitness Tracker",
+    "desc": "Compact fitness tracker with step counting and sleep monitoring.",
+    "qty": 220,
+    "category": "Fitness",
+    "price": 1896.35
+  },
+  {
+    "name": "Gaming Keyboard",
+    "desc": "Mechanical keyboard with customizable RGB lighting.",
+    "qty": 140,
+    "category": "Electronics",
+    "price": 2842.85
+  },
+  {
+    "name": "Portable Charger",
+    "desc": "High-capacity portable charger with multiple USB ports.",
+    "qty": 400,
+    "category": "Electronics",
+    "price": 1265.85
+  },
+  {
+    "name": "Electric Toothbrush",
+    "desc": "Rechargeable electric toothbrush with multiple brushing modes.",
+    "qty": 250,
+    "category": "Personal Care",
+    "price": 1582.35
+  },
+  {
+    "name": "Laptop Stand",
+    "desc": "Adjustable laptop stand for better ergonomics.",
+    "qty": 300,
+    "category": "Accessories",
+    "price": 948.44
+  },
+  {
+    "name": "Wireless Earbuds",
+    "desc": "True wireless earbuds with charging case.",
+    "qty": 500,
+    "category": "Electronics",
+    "price": 2538.35
+  },
+  {
+    "name": "Coffee Maker",
+    "desc": "Automatic coffee maker with programmable timer.",
+    "qty": 100,
+    "category": "Home",
+    "price": 1896.35
+  },
+  {
+    "name": "Digital Camera",
+    "desc": "Compact digital camera with high resolution.",
+    "qty": 60,
+    "category": "Electronics",
+    "price": 9495.85
+  },
+  {
+    "name": "Smart Thermostat",
+    "desc": "Smart thermostat with remote control via app.",
+    "qty": 90,
+    "category": "Home",
+    "price": 4428.35
+  },
+  {
+    "name": "Air Purifier",
+    "desc": "HEPA air purifier with multiple filtration stages.",
+    "qty": 80,
+    "category": "Home",
+    "price": 3792.85
+  },
+  {
+    "name": "VR Headset",
+    "desc": "Virtual reality headset with immersive experience.",
+    "qty": 70,
+    "category": "Electronics",
+    "price": 11058.35
+  },
+  {
+    "name": "Electric Grill",
+    "desc": "Indoor electric grill with non-stick surface.",
+    "qty": 110,
+    "category": "Home",
+    "price": 2538.35
+  },
+  {
+    "name": "Smart Light Bulbs",
+    "desc": "Pack of smart light bulbs with app control.",
+    "qty": 400,
+    "category": "Home",
+    "price": 1582.35
+  },
+  {
+    "name": "Electric Scooter",
+    "desc": "Foldable electric scooter with long battery life.",
+    "qty": 50,
+    "category": "Outdoor",
+    "price": 15825.35
+  },
+  {
+    "name": "3D Printer",
+    "desc": "Desktop 3D printer with high precision.",
+    "qty": 30,
+    "category": "Electronics",
+    "price": 18945.85
+  },
+  {
+    "name": "Pressure Cooker",
+    "desc": "Multi-functional electric pressure cooker.",
+    "qty": 90,
+    "category": "Home",
+    "price": 2842.85
+  },
+  {
+    "name": "Noise Machine",
+    "desc": "White noise machine for better sleep.",
+    "qty": 200,
+    "category": "Personal Care",
+    "price": 948.44
+  },
+  {
+    "name": "Action Camera",
+    "desc": "Waterproof action camera with 4K recording.",
+    "qty": 85,
+    "category": "Electronics",
+    "price": 4748.35
+  },
+  {
+    "name": "Smart Lock",
+    "desc": "Keyless smart lock with remote access.",
+    "qty": 70,
+    "category": "Home",
+    "price": 5698.35
+  },
+  {
+    "name": "Robot Vacuum",
+    "desc": "Automated robot vacuum cleaner with app control.",
+    "qty": 60,
+    "category": "Home",
+    "price": 7897.85
+  },
+  {
+    "name": "Electric Bike",
+    "desc": "Electric bike with pedal assist and long range.",
+    "qty": 40,
+    "category": "Outdoor",
+    "price": 28463.85
+  }
+]
