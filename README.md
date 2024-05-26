@@ -7,6 +7,7 @@ This project is a simple e-commerce website developed for learning purposes. It 
 - Checkout and payment processing using Stripe
 - Order tracking for users
 - Admin dashboard for product and order management
+
 **Technologies Used**
 - Frontend: ReactJS
 - Backend: ExpressJS
