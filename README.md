@@ -8,6 +8,6 @@ This project is a simple e-commerce website developed for learning purposes. It 
 - Order tracking for users
 - Admin dashboard for product and order management
 **Technologies Used**
-- Frontend: React
+- Frontend: ReactJS
 - Backend: ExpressJS
 - Database: MongoDB
