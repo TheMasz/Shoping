@@ -101,12 +101,14 @@ export const Products = () => {
                     </div>
                     <div className="flex justify-end items-center gap-2">
                       <button
+                        style={{ color: "#fff" }}
                         className="p-1 rounded-xl text-white text-medium bg-sky-500 hover:bg-sky-700"
                         onClick={() => EditHandler(product._id)}
                       >
                         Edit
                       </button>
                       <button
+                        style={{ color: "#fff" }}
                         className="p-1 rounded-xl text-white text-medium bg-red-500 hover:bg-red-700"
                         onClick={() => deleteHandler(product._id)}
                       >
